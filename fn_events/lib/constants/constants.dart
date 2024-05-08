@@ -1,0 +1,1 @@
+const String accountBaseUrl = 'https://10.0.2.2:7237/api/Account';

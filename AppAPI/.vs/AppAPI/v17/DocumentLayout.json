@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|c:\\yliopisto\\secureprogramming\\project\\appapi\\appapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|c:\\yliopisto\\secureprogramming\\project\\appapi\\appapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|c:\\yliopisto\\secureprogramming\\project\\appapi\\appapi\\migrations\\20240507125857_ismfaenabled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\migrations\\20240507125857_ismfaenabled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|c:\\yliopisto\\secureprogramming\\project\\appapi\\appapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|c:\\yliopisto\\secureprogramming\\project\\appapi\\appapi\\models\\loginusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\models\\loginusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|c:\\yliopisto\\secureprogramming\\project\\appapi\\appapi\\models\\usersettingsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\models\\usersettingsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|c:\\yliopisto\\secureprogramming\\project\\appapi\\appapi\\models\\registerusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\models\\registerusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|c:\\yliopisto\\secureprogramming\\project\\appapi\\appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|c:\\yliopisto\\secureprogramming\\project\\appapi\\appapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|c:\\yliopisto\\secureprogramming\\project\\appapi\\appapi\\models\\mfaverificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\models\\mfaverificationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|c:\\yliopisto\\secureprogramming\\project\\appapi\\appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|c:\\yliopisto\\secureprogramming\\project\\appapi\\appapi\\migrations\\20240321200241_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111B195A-3DA1-45ED-B984-4EF8D45755EE}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\migrations\\20240321200241_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240507125857_IsMfaEnabled.cs",
+              "DocumentMoniker": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Migrations\\20240507125857_IsMfaEnabled.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Migrations\\20240507125857_IsMfaEnabled.cs",
+              "ToolTip": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Migrations\\20240507125857_IsMfaEnabled.cs",
+              "RelativeToolTip": "AppAPI\\Migrations\\20240507125857_IsMfaEnabled.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:46:15.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "AppAPI\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:46:09.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserSettingsModel.cs",
+              "DocumentMoniker": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Models\\UserSettingsModel.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Models\\UserSettingsModel.cs",
+              "ToolTip": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Models\\UserSettingsModel.cs",
+              "RelativeToolTip": "AppAPI\\Models\\UserSettingsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:46:05.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAAwM4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T18:51:19.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterUserModel.cs",
+              "DocumentMoniker": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Models\\RegisterUserModel.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Models\\RegisterUserModel.cs",
+              "ToolTip": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Models\\RegisterUserModel.cs",
+              "RelativeToolTip": "AppAPI\\Models\\RegisterUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T18:48:28.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AppAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAABgMPLF6lolwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:30:39.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUserModel.cs",
+              "DocumentMoniker": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Models\\LoginUserModel.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Models\\LoginUserModel.cs",
+              "ToolTip": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Models\\LoginUserModel.cs",
+              "RelativeToolTip": "AppAPI\\Models\\LoginUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:57:14.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Program.cs",
+              "ToolTip": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Program.cs",
+              "RelativeToolTip": "AppAPI\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T18:43:32.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AppAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AppAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T20:24:22.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MfaVerificationModel.cs",
+              "DocumentMoniker": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Models\\MfaVerificationModel.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Models\\MfaVerificationModel.cs",
+              "ToolTip": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Models\\MfaVerificationModel.cs",
+              "RelativeToolTip": "AppAPI\\Models\\MfaVerificationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:45:32.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AppAPI\\appsettings.json",
+              "ToolTip": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\appsettings.json",
+              "RelativeToolTip": "AppAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T19:28:43.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240321200241_InitialCreate.cs",
+              "DocumentMoniker": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Migrations\\20240321200241_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Migrations\\20240321200241_InitialCreate.cs",
+              "ToolTip": "C:\\yliopisto\\secureProgramming\\project\\AppAPI\\AppAPI\\Migrations\\20240321200241_InitialCreate.cs",
+              "RelativeToolTip": "AppAPI\\Migrations\\20240321200241_InitialCreate.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwBwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:02:41.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
